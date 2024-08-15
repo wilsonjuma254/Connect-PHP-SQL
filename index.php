@@ -8,6 +8,11 @@
     <title>Connect PHP SQL</title>
 </head>
 <body>
-    $conn
+    
+<?php
+$sql = "SELECT * FROM users;";
+$result = msqli_query($conn);
+?>
+
 </body>
 </html>

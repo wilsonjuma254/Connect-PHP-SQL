@@ -4,7 +4,7 @@ CREATE TABLE users (
     user_last VARCHAR(256) not null,
     user_email VARCHAR(256) not null,
     user_uid VARCHAR(256) not null,
-    user_pwd VARCHAR(256) not null,
+    user_pwd VARCHAR(256) not null
 );
 
 INSERT INTO users (user_first, user_last, user_email, user_uid, user_pwd)
