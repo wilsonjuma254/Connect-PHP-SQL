@@ -13,8 +13,6 @@
     <br>
     <input type="text" name="email" placeholder="E-Mail" id="">
     <br>
-    <input type="text" name="first" placeholder="First Name" id="">
-    <br>
     <input type="text" name="uid" placeholder="Username" id="">
     <br>
     <input type="password" name="pwd" placeholder="Password" id="">
@@ -22,15 +20,6 @@
     <button type="submit" name="submit">Sign Up</button>
 
 </form>
-
-
-<?php
-
-
-
-
-
-?>
 
 </body>
 </html>
